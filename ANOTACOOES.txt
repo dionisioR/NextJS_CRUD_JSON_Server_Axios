@@ -16,7 +16,7 @@ https://www.npmjs.com/package/json-server
 npm i json-server
 
 INSTRUÇÃO
---------------------
+-----------------------
 crie na raiz o arquivo db.json
 No arquivo package.json acrescente o seguinte código
 
